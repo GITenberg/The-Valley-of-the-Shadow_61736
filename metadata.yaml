@@ -1,5 +1,8 @@
 _repo: The-Valley-of-the-Shadow_61736
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61736-h/images/cover.jpg
 creator:
   author:
     agent_name: McNeile, H. C. (Herman Cyril)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26827
     wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61736#The-Valley-of-the-Shadow
 gutenberg_issued: '2020-04-02'
 gutenberg_type: Text
 identifiers:
