@@ -1,0 +1,26 @@
+_repo: The-Valley-of-the-Shadow_61736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McNeile, H. C. (Herman Cyril)
+    aliases:
+    - McNeile, Cyril
+    - McNeile, Herman Cyril
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '26827'
+    url: http://www.gutenberg.org/2009/agents/26827
+    wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
+description: ''
+gutenberg_issued: '2020-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Valley of the Shadow
+url: http://www.gutenberg.org/ebooks/61736
